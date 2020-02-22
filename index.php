@@ -84,10 +84,10 @@
           <div class="content-body">
             <div class="card">
               <div class="card-header">
-                <h4>InfoSys <span class="job-title">Associate</span></h4>
+                <h4>InfoSys <span class="job-title">Software Engineer</span></h4>
               </div>
               <div class="card-content">
-                <p>Still working here, will update when I gain more experience!</p>
+                <p>Currently working with Java, Python, Angular, Spring, and SQL. Still working here, will update when I gain more experience!</p>
               </div>
             </div>
 
