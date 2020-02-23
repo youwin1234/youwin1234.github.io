@@ -24,6 +24,7 @@ body {
 .navbar a {
   font-weight: 200;
   color: white;
+  font-size: x-large;
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -40,7 +41,6 @@ body {
   height: 100vh; /*height to 100% of view height*/
   background: #1ec96b; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
-
   display: flex;
   flex-direction: column;
 }
