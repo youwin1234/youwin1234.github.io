@@ -27,6 +27,20 @@ body {
   font-size: x-large;
   padding: 14px 16px;
   text-decoration: none;
+  box-shadow: -2px -2px 8px rgba(30, 201, 107, 1);
+}
+
+/*for customizing CSS neumorphism on buttons*/
+.navbar a:hover {
+  box-shadow: inset -2px -2px 8px rgba(21, 142, 76, 1),
+              inset -2px -2px 8px rgba(255,255,255,0.5),
+              inset 2px 2px 4px rgba(255,255,255,0.1),
+              inset 2px 2px 8px rgba(0,0,0,0.15);
+}
+
+.navbar a:hover {
+  display: inline-block;
+  transform: scale(0.98);
 }
 
 .anchor {
@@ -82,6 +96,10 @@ body {
   color: white;
   padding: 20px;
 }
+.li-social-links a:hover {
+  color: #158e4c;
+  text-decoration: none;
+}
 
 /*Arrow Link*/
 #down-arrow {
@@ -94,6 +112,11 @@ body {
 
 #down-arrow a {
   color: white;
+}
+
+#down-arrow a:hover {
+  color: #158e4c;
+  text-decoration: none;
 }
 
 /*Content*/
