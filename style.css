@@ -262,7 +262,7 @@ h4 {
   flex-direction: column;
 }
 
-/*Skills*/
+/*Skills & Tools*/
 .ul-skills {
   text-align: center;
   padding-left: 0;
@@ -274,6 +274,17 @@ h4 {
   padding: 5px 10px;
   color: white;
   background: #5a5a5a;
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+}
+
+.li-tools{
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color: white;
+  background: #333232;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
