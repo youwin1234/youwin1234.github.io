@@ -210,6 +210,16 @@ h4 {
   float: right;
 }
 
+.job {
+  color: #26282c;
+  font-weight: bold;
+}
+
+.education-title {
+  color: #26282c;
+  font-weight: bold;
+}
+
 /*Projects*/
 .project-card {
   display: flex;
@@ -260,6 +270,11 @@ h4 {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+
+.project-title {
+  color: #26282c;
+  font-weight: bold;
 }
 
 /*Skills & Tools*/
